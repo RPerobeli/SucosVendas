@@ -1,0 +1,7 @@
+G:\Meu Drive\DESENVOLVEDOR\Alura\Sucos_Vendas\Sucos_Vendas\obj\Debug\net5.0\Sucos_Vendas.csprojAssemblyReference.cache
+G:\Meu Drive\DESENVOLVEDOR\Alura\Sucos_Vendas\Sucos_Vendas\obj\Debug\net5.0\Sucos_Vendas.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DESENVOLVEDOR\Alura\Sucos_Vendas\Sucos_Vendas\obj\Debug\net5.0\Sucos_Vendas.AssemblyInfoInputs.cache
+G:\Meu Drive\DESENVOLVEDOR\Alura\Sucos_Vendas\Sucos_Vendas\obj\Debug\net5.0\Sucos_Vendas.AssemblyInfo.cs
+G:\Meu Drive\DESENVOLVEDOR\Alura\Sucos_Vendas\Sucos_Vendas\obj\Debug\net5.0\Sucos_Vendas.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DESENVOLVEDOR\Alura\Sucos_Vendas\Sucos_Vendas\obj\Debug\net5.0\Sucos_Vendas.MvcApplicationPartsAssemblyInfo.cs
+G:\Meu Drive\DESENVOLVEDOR\Alura\Sucos_Vendas\Sucos_Vendas\obj\Debug\net5.0\Sucos_Vendas.MvcApplicationPartsAssemblyInfo.cache
